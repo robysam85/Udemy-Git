@@ -1,6 +1,5 @@
-#Assignment 1
-##Git and GitHub
-###Rabab Samir
+##Assignment 1
+###Git and GitHub
 
 Name: Rabab Samir Yousef Mohamed
 Course: Git and GitHub
